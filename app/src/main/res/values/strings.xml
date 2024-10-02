@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tres Números</string>
+    <string name="numero1">Número 1:</string>
+    <string name="introducirNumero">Introduzca un número entero</string>
+    <string name="numero2">Número 2:</string>
+    <string name="numero3">Número 3:</string>
+    <string name="menor">MENOR</string>
+    <string name="mayor">MAYOR</string>
+    <string name="ord_asc">ORD ASC</string>
+    <string name="ord_desc">ORD DESC</string>
+    <string name="borrar">BORRAR</string>
+</resources>
